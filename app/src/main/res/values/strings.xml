@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">10120222Latihan2</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="log">LOGIN</string>
+    <string name="or">OR</string>
+    <string name="fb">CONNECT WITH FACEBOOK</string>
+    <string name="have">doesn\'t have account?</string>
+    <string name="regis">Register</string>
+
+    <string name="ema">Email</string>
+    <string name="pho">Phone Number</string>
+    <string name="male">Male</string>
+    <string name="fema">Female</string>
+    <string name="bloo">Blood Type</string>
+    <string name="res">Reshus</string>
+    <string name="rety">Retype Password</string>
+    <string name="pers">Personal</string>
+    <string name="orga">Organization</string>
+    <string name="job">Job</string>
+    <string name="home">Home Address</string>
+    <string name="defau">Default Location</string>
+    <string name="agree">Agree with Terms and Conditions</string>
+
+    <string name="almo">Almost There</string>
+    <string name="thank">Thank you for registering with us. One more</string>
+    <string name="step">step you need to check your email</string>
+    <string name="to">to active your account</string>
+    <string name="verify">VERIFY</string>
+
+    <string name="account">Verify your Account</string>
+    <string name="we">We have send verification code to your email</string>
+    <string name="enter">enter verification code here..</string>
+    <string name="doesn">doesn\'t get the code?</string>
+    <string name="resend">Resend</string>
+    <string name="send">SEND</string>
+
+    <string name="martin">Martinus Celvyn</string>
+    <string name="blood">Blood type : B</string>
+    <string name="bloodg">BLOOD GIVE</string>
+    <string name="bloodr">BLOOD RECEIVED</string>
+    <string name="thanks">THANKS</string>
+    <string name="search">Search Donor</string>
+    <string name="searchd">Search donor near you</string>
+    <string name="bloodne">Blood Needed</string>
+    <string name="users">4 User need blood</string>
+    <string name="message">Message</string>
+    <string name="messagee">5 New Message</string>
+    <string name="donor">Donor History</string>
+    <string name="gives">5 Gives, 2 Received</string>
+    <string name="_75">75</string>
+    <string name="_100">100</string>
+    <string name="_330">330</string>
+</resources>
